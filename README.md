@@ -5,7 +5,7 @@
 
 - 🔭 im currently working on [usepdx](https://usepdx.tech/)
 
-- 🌱 im currently learning **ml, testing & revising the fundamentals of cs**
+- 🌱 im currently learning **golang & revising the fundamentals of cs**
 
 - 👯 im looking to collaborate on **hackathons (offline/online)**
 
