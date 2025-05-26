@@ -13,7 +13,7 @@
 
 - 💬 ask me about **nextjs**
 
-- 📫 how to reach me **shreyandey1102@gmail.com**
+- 📫 how to reach me **deydevelops@gmail.com**
 
 - ⚡ fun fact **im not funny :)**
 
